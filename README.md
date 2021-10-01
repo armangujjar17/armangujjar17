@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arman Ali Chaudhary
 - 👀 I’m interested in ... Coding , Mean Stack
 - 🌱 I’m currently learning ... Data Structure
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Node.js and Angular
 - 📫 How to reach me ... armangujjar17@gmail.com , 8938977377
 
 <!---
